@@ -9,3 +9,4 @@ pub mod p0832_flipping_an_image;
 pub mod p0136_single_number;
 pub mod p0190_reverse_bits;
 pub mod p1720_decode_xored_array;
+pub mod p0015_3sum;
