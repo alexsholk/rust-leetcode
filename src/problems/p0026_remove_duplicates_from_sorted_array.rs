@@ -38,4 +38,11 @@ mod tests {
         assert_eq!(6, Solution::remove_duplicates(&mut nums));
         assert_eq!(vec![1, 2, 3, 4, 5, 6], nums);
     }
+
+    #[test]
+    fn test_alt_solution() {
+        let mut nums = vec![1, 1, 2, 3, 3, 4, 5, 5, 5, 6];
+        assert_eq!(6, Solution::alt_solution(&mut nums));
+        assert_eq!(vec![1, 2, 3, 4, 5, 6], nums);
+    }
 }
