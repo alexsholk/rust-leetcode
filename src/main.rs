@@ -1,6 +1,9 @@
 pub mod problems;
 
 fn main() {
-    let result = problems::p0013_roman_to_integer::Solution::roman_to_int(String::from("MCMXCIV"));
-    println!("{:?}", result);
+    let mut vec = vec![1, 1, 2, 3, 3, 4, 5, 5, 5, 6];
+    let result =
+        problems::p0026_remove_duplicates_from_sorted_array::Solution::remove_duplicates(&mut vec);
+
+    println!("{:?}\n{:?}", vec, result);
 }
