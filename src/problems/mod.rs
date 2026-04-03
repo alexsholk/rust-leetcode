@@ -11,3 +11,4 @@ pub mod p0190_reverse_bits;
 pub mod p1720_decode_xored_array;
 pub mod p0015_3sum;
 pub mod p0066_plus_one;
+pub mod p0069_sqrtx;
