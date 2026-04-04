@@ -14,3 +14,4 @@ pub mod p0066_plus_one;
 pub mod p0069_sqrtx;
 pub mod p0167_two_sum_ii_input_array_is_sorted;
 pub mod p0121_best_time_to_buy_and_sell_stock;
+pub mod p0088_merge_sorter_array;
