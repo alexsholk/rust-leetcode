@@ -12,3 +12,4 @@ pub mod p1720_decode_xored_array;
 pub mod p0015_3sum;
 pub mod p0066_plus_one;
 pub mod p0069_sqrtx;
+pub mod p0167_two_sum_ii_input_array_is_sorted;
