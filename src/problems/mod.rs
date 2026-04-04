@@ -16,3 +16,4 @@ pub mod p0167_two_sum_ii_input_array_is_sorted;
 pub mod p0121_best_time_to_buy_and_sell_stock;
 pub mod p0088_merge_sorter_array;
 pub mod p0118_pascals_triangle;
+pub mod p0083_remove_duplicates_from_sorted_list;
