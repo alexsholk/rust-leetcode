@@ -18,3 +18,4 @@ pub mod p0088_merge_sorter_array;
 pub mod p0118_pascals_triangle;
 pub mod p0083_remove_duplicates_from_sorted_list;
 pub mod p0119_pascals_triangle_ii;
+pub mod p0020_valid_parentheses;
