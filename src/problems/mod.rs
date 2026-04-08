@@ -25,3 +25,4 @@ pub mod p0292_nim_game;
 pub mod p0007_reverse_integer;
 pub mod p0058_length_of_last_word;
 pub mod p0168_excel_sheet_column_title;
+pub mod p2069_walking_robot_simulation_ii;
