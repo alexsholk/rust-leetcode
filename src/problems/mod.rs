@@ -28,3 +28,4 @@ pub mod p0168_excel_sheet_column_title;
 pub mod p2069_walking_robot_simulation_ii;
 pub mod p3653_xor_after_range_multiplication_queries_i;
 pub mod p0657_robot_return_to_origin;
+pub mod p3643_flip_square_submatrix_vertically;
