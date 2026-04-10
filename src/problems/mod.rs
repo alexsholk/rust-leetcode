@@ -35,3 +35,4 @@ pub mod p3740_minimum_distance_between_three_equal_elements_i;
 pub mod p0037_set_matrix_zeroes;
 pub mod p0191_number_of_1_bits;
 pub mod p0012_integer_to_roman;
+pub mod p0222_count_complete_tree_nodes;
