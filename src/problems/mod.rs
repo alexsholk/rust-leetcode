@@ -40,3 +40,4 @@ pub mod p0231_power_of_two;
 pub mod p0268_missing_number;
 pub mod p0125_valid_palindrome;
 pub mod p3741_minimum_distance_between_three_equal_elements_ii;
+pub mod p0110_balanced_binary_tree;
