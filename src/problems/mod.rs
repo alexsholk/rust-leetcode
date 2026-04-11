@@ -39,3 +39,4 @@ pub mod p0222_count_complete_tree_nodes;
 pub mod p0231_power_of_two;
 pub mod p0268_missing_number;
 pub mod p0125_valid_palindrome;
+pub mod p3741_minimum_distance_between_three_equal_elements_ii;
