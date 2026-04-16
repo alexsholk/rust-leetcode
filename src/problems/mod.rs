@@ -44,3 +44,4 @@ pub mod p0110_balanced_binary_tree;
 pub mod p1320_minimum_distance_to_type_a_word_using_two_fingers;
 pub mod p2425_bitwise_xor_of_all_pairings;
 pub mod p0225_implement_stack_using_queues;
+pub mod p3488_closest_equal_element_queries;
